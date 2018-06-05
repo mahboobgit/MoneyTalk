@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTalk", "MoneyTalk.csproj", "{12D824A4-9DA3-4319-9A8D-370C8DE0A118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D824A4-9DA3-4319-9A8D-370C8DE0A118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D824A4-9DA3-4319-9A8D-370C8DE0A118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D824A4-9DA3-4319-9A8D-370C8DE0A118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D824A4-9DA3-4319-9A8D-370C8DE0A118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.VersionControlPolicy = $2
+	EndGlobalSection
+EndGlobal
